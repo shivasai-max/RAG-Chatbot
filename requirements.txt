@@ -1,0 +1,14 @@
+streamlit==1.45.1
+langchain==0.3.25
+langchain-community==0.3.24
+langchain-google-genai==2.1.5
+langchain-huggingface==0.2.0
+faiss-cpu==1.11.0
+sentence-transformers==4.1.0
+torch==2.7.0
+transformers==4.52.4
+pypdf==5.5.0
+pymupdf==1.26.0
+python-dotenv==1.1.0
+numpy==2.2.6
+tiktoken==0.9.0
